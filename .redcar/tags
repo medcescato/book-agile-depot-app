@@ -1,0 +1,23 @@
+1332725687
+Application	/home/usuario/Área de Trabalho/rails/depot/config/application.rb	  class Application 
+ApplicationController	/home/usuario/Área de Trabalho/rails/depot/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/usuario/Área de Trabalho/rails/depot/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	/home/usuario/Área de Trabalho/rails/depot/test/performance/browsing_test.rb	class BrowsingTest 
+CreateProducts	/home/usuario/Área de Trabalho/rails/depot/db/migrate/20120326010029_create_products.rb	class CreateProducts 
+Depot	/home/usuario/Área de Trabalho/rails/depot/config/application.rb	module Depot
+Product	/home/usuario/Área de Trabalho/rails/depot/app/models/product.rb	class Product 
+ProductTest	/home/usuario/Área de Trabalho/rails/depot/test/unit/product_test.rb	class ProductTest 
+ProductsController	/home/usuario/Área de Trabalho/rails/depot/app/controllers/products_controller.rb	class ProductsController 
+ProductsControllerTest	/home/usuario/Área de Trabalho/rails/depot/test/functional/products_controller_test.rb	class ProductsControllerTest 
+ProductsHelper	/home/usuario/Área de Trabalho/rails/depot/app/helpers/products_helper.rb	module ProductsHelper
+ProductsHelperTest	/home/usuario/Área de Trabalho/rails/depot/test/unit/helpers/products_helper_test.rb	class ProductsHelperTest 
+TestCase	/home/usuario/Área de Trabalho/rails/depot/test/test_helper.rb	class ActiveSupport::TestCase
+change	/home/usuario/Área de Trabalho/rails/depot/db/migrate/20120326010029_create_products.rb	  def change
+create	/home/usuario/Área de Trabalho/rails/depot/app/controllers/products_controller.rb	  def create
+destroy	/home/usuario/Área de Trabalho/rails/depot/app/controllers/products_controller.rb	  def destroy
+edit	/home/usuario/Área de Trabalho/rails/depot/app/controllers/products_controller.rb	  def edit
+index	/home/usuario/Área de Trabalho/rails/depot/app/controllers/products_controller.rb	  def index
+new	/home/usuario/Área de Trabalho/rails/depot/app/controllers/products_controller.rb	  def new
+show	/home/usuario/Área de Trabalho/rails/depot/app/controllers/products_controller.rb	  def show
+test_homepage	/home/usuario/Área de Trabalho/rails/depot/test/performance/browsing_test.rb	  def test_homepage
+update	/home/usuario/Área de Trabalho/rails/depot/app/controllers/products_controller.rb	  def update
