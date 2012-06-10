@@ -26,3 +26,19 @@ Your customers want rock-solid, bug-free software that does exactly what they ex
 },
 image_url: 'http://imagery.pragprog.com/products/216/hwcuc_mediumcover.jpg',
 price: 29.95)
+
+Product.create(title: 'Agile Web Development with Rails (4th edition)',
+description:
+%{
+Rails just keeps on changing. Rails 3 and Ruby 1.9 bring hundreds of improvements, including new APIs and substantial performance enhancements. The fourth edition of this award-winning classic has been reorganized and refocused so it's more useful than ever before for developers new to Ruby and Rails.
+},
+image_url: 'http://imagery.pragprog.com/products/196/rails4_mediumcover.jpg',
+price: 29.95)
+
+Product.create(title: 'Deploying Rails',
+description:
+%{
+Today's modern Rails applications have lots of moving parts. Make sure your next production deployment goes smoothly with this hands-on book, which guides you through the entire production process. You'll set up scripts to install and configure all the software your servers need, including your application code. Once you're in production, you'll learn how to set up systems to monitor your application's health, gather metrics so you can stop problems before they start, and fix things when they go wrong.
+},
+image_url: 'http://imagery.pragprog.com/products/246/cbdepra_mediumbeta.jpg',
+price: 29.95)

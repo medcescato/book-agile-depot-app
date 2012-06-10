@@ -16,6 +16,9 @@
 # diff de todos os arquivos que mudaram (no ubuntu, chama o meld)
 # git difftool
 
+# diff de arquivo especifico ('git status' dá o caminho completo do arquivo que mudou)
+# git difftool xxx/yyy/www.zzz
+
 # 3) Comitando:
 ## adicionar novos arquivos criados ao repositorio
 # git add .
@@ -23,5 +26,5 @@
 ## commit local
 # git commit -a -m 'nome da tag'
 
-## push pro repositorio (commit)
+## push pro repositorio master (commit no server)
 # git push -u origin master
