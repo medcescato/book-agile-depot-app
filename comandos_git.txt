@@ -32,6 +32,10 @@
 ## adicionar novos arquivos criados ao repositorio
 # git add .
 
+# 4) Update:
+# git fetch origin
+# git merge origin/master
+
 ## commit local
 # git commit -a -m 'nome da tag'
 
