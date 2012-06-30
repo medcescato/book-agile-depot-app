@@ -32,12 +32,12 @@
 ## adicionar novos arquivos criados ao repositorio
 # git add .
 
-# 4) Update:
-# git fetch origin
-# git merge origin/master
-
 ## commit local
 # git commit -a -m 'nome da tag'
 
 ## push pro repositorio master (commit no server)
 # git push -u origin master
+
+# 4) Update (remote=origin):
+# git fetch origin
+# git merge origin/master
