@@ -28,6 +28,9 @@
 # diff de arquivo especifico ('git status' dá o caminho completo do arquivo que mudou)
 # git difftool xxx/yyy/www.zzz
 
+# diff que abre todos os arquivos que mudaram 
+# git diff --name-only "$@" | while read filename; do git difftool "$@" --no-prompt "$filename" & done
+
 # 3) Comitando:
 ## adicionar novos arquivos criados ao repositorio
 # git add .
