@@ -41,6 +41,10 @@
 ## push pro repositorio master (commit no server)
 # git push -u origin master
 
-# 4) Update (remote=origin):
+# 4) Override and Update (remote=origin):
 # git fetch origin
+# git reset --hard HEAD    # descarta suas mudancas 
 # git merge origin/master
+
+# 5) Merge
+# git ???

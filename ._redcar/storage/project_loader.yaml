@@ -1,0 +1,5 @@
+--- 
+open_files: 
+  - app/models/cart.rb
+  - app/models/product.rb
+  - app/models/line_item.rb
