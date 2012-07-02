@@ -1,4 +1,4 @@
-1341245654
+1341245776
 AddOrderIdToLineItem	C:/Documents and Settings/zcpw/brdistribuidora/pesquisa/rails/book-agile-depot-app/db/migrate/20120617181822_add_order_id_to_line_item.rb	class AddOrderIdToLineItem 
 AddQuantityToLineItems	C:/Documents and Settings/zcpw/brdistribuidora/pesquisa/rails/book-agile-depot-app/db/migrate/20120514002649_add_quantity_to_line_items.rb	class AddQuantityToLineItems 
 Application	C:/Documents and Settings/zcpw/brdistribuidora/pesquisa/rails/book-agile-depot-app/config/application.rb	  class Application 

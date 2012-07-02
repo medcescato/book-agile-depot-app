@@ -16,5 +16,6 @@
 
 # ignorar Redcar
 /.redcar
+/._redcar
 
 /Gemfile.lock
