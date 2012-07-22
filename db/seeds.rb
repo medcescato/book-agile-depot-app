@@ -42,3 +42,7 @@ Today's modern Rails applications have lots of moving parts. Make sure your next
 },
 image_url: 'http://imagery.pragprog.com/products/246/cbdepra_mediumbeta.jpg',
 price: 29.95)
+
+#Usuarios
+User.create(name: 'admin',
+password: 'initpass')
